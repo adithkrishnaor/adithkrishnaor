@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adith
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack
-- 📫 How to reach me linkedin.com/in/adith-krishna-o-r
+- 📫 Reach me @ linkedin.com/in/adith-krishna-o-r
 
 
 <!---
