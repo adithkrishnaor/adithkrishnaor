@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adith</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **REACT NATIVE**
 
 - 📫 How to reach me **https://www.linkedin.com/in/adith-krishna-o-r**
 
