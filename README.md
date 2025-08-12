@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adith</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **Next.Js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/adith-krishna-o-r**
 
@@ -25,6 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adithkrishnaor&icon=5&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/adithkrishnaor) 
